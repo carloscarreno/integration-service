@@ -1,0 +1,8 @@
+org\jbossgroup\integration\JpaRouteBuilder.class
+org\jbossgroup\integration\service\InvoiceRepository.class
+org\jbossgroup\integration\service\InvoiceService.class
+org\jbossgroup\integration\FtpRouteBuilder.class
+org\jbossgroup\integration\model\Invoice.class
+org\jbossgroup\integration\MySpringBootRouter.class
+org\jbossgroup\integration\MySpringBean.class
+org\jbossgroup\integration\MySpringBootApplication.class

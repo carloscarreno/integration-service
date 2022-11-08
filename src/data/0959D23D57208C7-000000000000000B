@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<invoice>
+    <fechaEmision>2022-10-03T00:00:00+02:00</fechaEmision>
+    <igv>10.0</igv>
+    <importeTotal>190.0</importeTotal>
+    <montoTotalTtributos>10.0</montoTotalTtributos>
+    <numeroDocumento>FU001-00027</numeroDocumento>
+    <rucEmisor>20522517292</rucEmisor>
+    <totalValorVenta>180.0</totalValorVenta>
+</invoice>
