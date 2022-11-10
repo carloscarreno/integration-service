@@ -5,7 +5,7 @@ import org.apache.camel.model.dataformat.JaxbDataFormat;
 import org.jbossgroup.integration.model.Invoice;
 import org.springframework.stereotype.Component;
 
-//@Component
+@Component
 public class FtpRouteBuilder extends RouteBuilder {
 
 	@Override
