@@ -70,7 +70,16 @@
 			<groupId>org.apache.camel.springboot</groupId>
 			<artifactId>camel-stream-starter</artifactId>
 		</dependency>
-
+        <!-- CamelJMS Dependencies ActiveMQ Artemis Client -->
+        <dependency>
+            <groupId>org.apache.camel.springboot</groupId>
+            <artifactId>camel-jms-starter</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.activemq</groupId>
+            <artifactId>artemis-jms-client</artifactId>
+        </dependency>
+        
 		<!-- Custom -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
